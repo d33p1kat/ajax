@@ -1,0 +1,5 @@
+JUST NOW I HAVE ADDED DATA
+AJAX - asynchronous javscript, by using ajax make requests asynchronously without reload the page
+
+
+   
